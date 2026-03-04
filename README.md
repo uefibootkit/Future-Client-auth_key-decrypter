@@ -2,4 +2,4 @@
 - auth_key is the key you need for logging into your future account but it's stored encrypted, but you can decrypt it via this code
 
 # Where is this file stored ?
-- C:\Users\username\Future\auth_key
+- \Users\username\Future\auth_key
